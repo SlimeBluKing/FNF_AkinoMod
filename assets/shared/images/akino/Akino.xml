@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Akino.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Akino down0000" x="0" y="0" width="286" height="571" frameX="-4" frameY="-10" frameWidth="290" frameHeight="593"/>
+	<SubTexture name="Akino down0001" x="0" y="0" width="286" height="571" frameX="-4" frameY="-10" frameWidth="290" frameHeight="593"/>
+	<SubTexture name="Akino down0002" x="0" y="0" width="286" height="571" frameX="-4" frameY="-10" frameWidth="290" frameHeight="593"/>
+	<SubTexture name="Akino down0003" x="0" y="0" width="286" height="571" frameX="-4" frameY="-10" frameWidth="290" frameHeight="593"/>
+	<SubTexture name="Akino down0004" x="286" y="0" width="286" height="593" frameX="0" frameY="0" frameWidth="290" frameHeight="593"/>
+	<SubTexture name="Akino down0005" x="286" y="0" width="286" height="593" frameX="0" frameY="0" frameWidth="290" frameHeight="593"/>
+	<SubTexture name="Akino down0006" x="286" y="0" width="286" height="593" frameX="0" frameY="0" frameWidth="290" frameHeight="593"/>
+	<SubTexture name="Akino down0007" x="286" y="0" width="286" height="593" frameX="0" frameY="0" frameWidth="290" frameHeight="593"/>
+	<SubTexture name="Akino down0008" x="286" y="0" width="286" height="593" frameX="0" frameY="0" frameWidth="290" frameHeight="593"/>
+	<SubTexture name="Akino down0009" x="286" y="0" width="286" height="593" frameX="0" frameY="0" frameWidth="290" frameHeight="593"/>
+	<SubTexture name="Akino down0010" x="286" y="0" width="286" height="593" frameX="0" frameY="0" frameWidth="290" frameHeight="593"/>
+	<SubTexture name="Akino down0011" x="286" y="0" width="286" height="593" frameX="0" frameY="0" frameWidth="290" frameHeight="593"/>
+	<SubTexture name="Akino down0012" x="286" y="0" width="286" height="593" frameX="0" frameY="0" frameWidth="290" frameHeight="593"/>
+	<SubTexture name="Akino down0013" x="286" y="0" width="286" height="593" frameX="0" frameY="0" frameWidth="290" frameHeight="593"/>
+	<SubTexture name="Akino down0014" x="286" y="0" width="286" height="593" frameX="0" frameY="0" frameWidth="290" frameHeight="593"/>
+	<SubTexture name="Akino idle0000" x="572" y="0" width="361" height="649" frameX="0" frameY="-1" frameWidth="361" frameHeight="653"/>
+	<SubTexture name="Akino idle0001" x="933" y="0" width="353" height="651" frameX="-4" frameY="0" frameWidth="361" frameHeight="653"/>
+	<SubTexture name="Akino idle0002" x="1286" y="0" width="343" height="652" frameX="-9" frameY="0" frameWidth="361" frameHeight="653"/>
+	<SubTexture name="Akino idle0003" x="1629" y="0" width="333" height="653" frameX="-14" frameY="0" frameWidth="361" frameHeight="653"/>
+	<SubTexture name="Akino idle0004" x="0" y="653" width="323" height="653" frameX="-19" frameY="0" frameWidth="361" frameHeight="653"/>
+	<SubTexture name="Akino idle0005" x="0" y="653" width="323" height="653" frameX="-19" frameY="0" frameWidth="361" frameHeight="653"/>
+	<SubTexture name="Akino idle0006" x="0" y="653" width="323" height="653" frameX="-19" frameY="0" frameWidth="361" frameHeight="653"/>
+	<SubTexture name="Akino idle0007" x="0" y="653" width="323" height="653" frameX="-19" frameY="0" frameWidth="361" frameHeight="653"/>
+	<SubTexture name="Akino idle0008" x="0" y="653" width="323" height="653" frameX="-19" frameY="0" frameWidth="361" frameHeight="653"/>
+	<SubTexture name="Akino idle0009" x="0" y="653" width="323" height="653" frameX="-19" frameY="0" frameWidth="361" frameHeight="653"/>
+	<SubTexture name="Akino idle0010" x="0" y="653" width="323" height="653" frameX="-19" frameY="0" frameWidth="361" frameHeight="653"/>
+	<SubTexture name="Akino idle0011" x="0" y="653" width="323" height="653" frameX="-19" frameY="0" frameWidth="361" frameHeight="653"/>
+	<SubTexture name="Akino idle0012" x="0" y="653" width="323" height="653" frameX="-19" frameY="0" frameWidth="361" frameHeight="653"/>
+	<SubTexture name="Akino idle0013" x="0" y="653" width="323" height="653" frameX="-19" frameY="0" frameWidth="361" frameHeight="653"/>
+	<SubTexture name="Akino idle0014" x="0" y="653" width="323" height="653" frameX="-19" frameY="0" frameWidth="361" frameHeight="653"/>
+	<SubTexture name="Akino left0000" x="323" y="653" width="306" height="654"/>
+	<SubTexture name="Akino left0001" x="323" y="653" width="306" height="654"/>
+	<SubTexture name="Akino left0002" x="323" y="653" width="306" height="654"/>
+	<SubTexture name="Akino left0003" x="323" y="653" width="306" height="654"/>
+	<SubTexture name="Akino left0004" x="629" y="653" width="294" height="654" frameX="-7" frameY="0" frameWidth="306" frameHeight="654"/>
+	<SubTexture name="Akino left0005" x="629" y="653" width="294" height="654" frameX="-7" frameY="0" frameWidth="306" frameHeight="654"/>
+	<SubTexture name="Akino left0006" x="629" y="653" width="294" height="654" frameX="-7" frameY="0" frameWidth="306" frameHeight="654"/>
+	<SubTexture name="Akino left0007" x="629" y="653" width="294" height="654" frameX="-7" frameY="0" frameWidth="306" frameHeight="654"/>
+	<SubTexture name="Akino left0008" x="629" y="653" width="294" height="654" frameX="-7" frameY="0" frameWidth="306" frameHeight="654"/>
+	<SubTexture name="Akino left0009" x="629" y="653" width="294" height="654" frameX="-7" frameY="0" frameWidth="306" frameHeight="654"/>
+	<SubTexture name="Akino left0010" x="629" y="653" width="294" height="654" frameX="-7" frameY="0" frameWidth="306" frameHeight="654"/>
+	<SubTexture name="Akino left0011" x="629" y="653" width="294" height="654" frameX="-7" frameY="0" frameWidth="306" frameHeight="654"/>
+	<SubTexture name="Akino left0012" x="629" y="653" width="294" height="654" frameX="-7" frameY="0" frameWidth="306" frameHeight="654"/>
+	<SubTexture name="Akino left0013" x="629" y="653" width="294" height="654" frameX="-7" frameY="0" frameWidth="306" frameHeight="654"/>
+	<SubTexture name="Akino left0014" x="629" y="653" width="294" height="654" frameX="-7" frameY="0" frameWidth="306" frameHeight="654"/>
+	<SubTexture name="Akino right0000" x="923" y="653" width="311" height="661"/>
+	<SubTexture name="Akino right0001" x="923" y="653" width="311" height="661"/>
+	<SubTexture name="Akino right0002" x="923" y="653" width="311" height="661"/>
+	<SubTexture name="Akino right0003" x="923" y="653" width="311" height="661"/>
+	<SubTexture name="Akino right0004" x="1234" y="653" width="294" height="661" frameX="-13" frameY="0" frameWidth="311" frameHeight="661"/>
+	<SubTexture name="Akino right0005" x="1234" y="653" width="294" height="661" frameX="-13" frameY="0" frameWidth="311" frameHeight="661"/>
+	<SubTexture name="Akino right0006" x="1234" y="653" width="294" height="661" frameX="-13" frameY="0" frameWidth="311" frameHeight="661"/>
+	<SubTexture name="Akino right0007" x="1234" y="653" width="294" height="661" frameX="-13" frameY="0" frameWidth="311" frameHeight="661"/>
+	<SubTexture name="Akino right0008" x="1234" y="653" width="294" height="661" frameX="-13" frameY="0" frameWidth="311" frameHeight="661"/>
+	<SubTexture name="Akino right0009" x="1234" y="653" width="294" height="661" frameX="-13" frameY="0" frameWidth="311" frameHeight="661"/>
+	<SubTexture name="Akino right0010" x="1234" y="653" width="294" height="661" frameX="-13" frameY="0" frameWidth="311" frameHeight="661"/>
+	<SubTexture name="Akino right0011" x="1234" y="653" width="294" height="661" frameX="-13" frameY="0" frameWidth="311" frameHeight="661"/>
+	<SubTexture name="Akino right0012" x="1234" y="653" width="294" height="661" frameX="-13" frameY="0" frameWidth="311" frameHeight="661"/>
+	<SubTexture name="Akino right0013" x="1234" y="653" width="294" height="661" frameX="-13" frameY="0" frameWidth="311" frameHeight="661"/>
+	<SubTexture name="Akino right0014" x="1234" y="653" width="294" height="661" frameX="-13" frameY="0" frameWidth="311" frameHeight="661"/>
+	<SubTexture name="Akino up0000" x="1528" y="653" width="296" height="628" frameX="0" frameY="-9" frameWidth="296" frameHeight="645"/>
+	<SubTexture name="Akino up0001" x="1528" y="653" width="296" height="628" frameX="0" frameY="-9" frameWidth="296" frameHeight="645"/>
+	<SubTexture name="Akino up0002" x="1528" y="653" width="296" height="628" frameX="0" frameY="-9" frameWidth="296" frameHeight="645"/>
+	<SubTexture name="Akino up0003" x="1528" y="653" width="296" height="628" frameX="0" frameY="-9" frameWidth="296" frameHeight="645"/>
+	<SubTexture name="Akino up0004" x="0" y="1314" width="296" height="645"/>
+	<SubTexture name="Akino up0005" x="0" y="1314" width="296" height="645"/>
+	<SubTexture name="Akino up0006" x="0" y="1314" width="296" height="645"/>
+	<SubTexture name="Akino up0007" x="0" y="1314" width="296" height="645"/>
+	<SubTexture name="Akino up0008" x="0" y="1314" width="296" height="645"/>
+	<SubTexture name="Akino up0009" x="0" y="1314" width="296" height="645"/>
+	<SubTexture name="Akino up0010" x="0" y="1314" width="296" height="645"/>
+	<SubTexture name="Akino up0011" x="0" y="1314" width="296" height="645"/>
+	<SubTexture name="Akino up0012" x="0" y="1314" width="296" height="645"/>
+	<SubTexture name="Akino up0013" x="0" y="1314" width="296" height="645"/>
+	<SubTexture name="Akino up0014" x="0" y="1314" width="296" height="645"/>
+</TextureAtlas>
